@@ -1,6 +1,6 @@
 # Vulnerability Submitter
 
-Name：qinruiqi
+Name：Qinruiqi
 
 GitHub address：https://github.com/JunFengDeng/qinruiqi/blob/main/20231027/vuln/readme.md
 
