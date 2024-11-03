@@ -2,7 +2,7 @@
 
 Name：qinruiqi
 
-GitHub address：https://github.com/JunFengDeng/qinruiqi/edit/main/20231027/vuln/readme.md
+GitHub address：https://github.com/JunFengDeng/qinruiqi/blob/main/20231027/vuln/readme.md
 
 # SQL injection vulnerability exists in novel-plus v4.2.0
 
